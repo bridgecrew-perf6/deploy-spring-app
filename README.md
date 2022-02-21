@@ -16,3 +16,4 @@
 
 - [Red Hat OpenShift Architecture](./ocp-architecture.md)
 - [Explore OpenShift](./explore-ocp.md)
+- [Create your first project](./create-first-proj.md)
