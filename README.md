@@ -17,3 +17,4 @@
 - [Red Hat OpenShift Architecture](./ocp-architecture.md)
 - [Explore OpenShift](./explore-ocp.md)
 - [Create your first project](./create-first-proj.md)
+- [Deploy an application using a pre-existing cotnainer image](./deploy-image.md)
