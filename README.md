@@ -21,3 +21,4 @@
 - [Create your first project](./create-first-proj.md)
 - [Deploy an application using a pre-existing cotnainer image](./deploy-image.md)
 - [Scale up your application in order to handle web traffic](./scaling.md)
+- [Exposing your application to users outside of the cluster](./route.md)
