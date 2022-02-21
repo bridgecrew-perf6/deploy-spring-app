@@ -11,6 +11,8 @@
 
 ## Lab env
 - OpenShift 4.9.12
+- `will-demo` project used for OpenShift web console demo
+- `will-test` project used for OpenShift CLI demo
 
 ## Learning Path
 
@@ -18,3 +20,4 @@
 - [Explore OpenShift](./explore-ocp.md)
 - [Create your first project](./create-first-proj.md)
 - [Deploy an application using a pre-existing cotnainer image](./deploy-image.md)
+- [Scale up your application in order to handle web traffic](./scaling.md)
