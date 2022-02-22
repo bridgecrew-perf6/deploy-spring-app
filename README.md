@@ -41,7 +41,7 @@ OpenShift Templates:
 - [Build and deploy an application from source code in a Git repository](./deploy-git.md)
 - [Deploy a database from the Red Hat OpenShift service catalog](./template.md)
 - [Configure Application Health Checks](./health-checks.md)
-- [Continuous integration and pipelines](./pipeline.md)
+- [Continuous Integration and Pipelines](./pipeline.md)
 - [Set up webhooks to enable automated application build](./webhook.md)
 
 

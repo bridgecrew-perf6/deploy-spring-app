@@ -1,6 +1,6 @@
 [TOC]
 
-# Continuous integration and pipelines
+# Continuous Integration and Pipelines
 
 ## Install OpenShift Pipelines from OperatorHub
 
