@@ -14,6 +14,10 @@ Projects:
 - Frontend: <https://github.com/openshift-roadshow/parksmap-web>
 - Backend: <https://github.com/openshift-roadshow/nationalparks>
 
+OpenShift Templates:
+- [openshift-templates](https://github.com/redhat-cop/openshift-templates)
+- [container-quickstarts](https://github.com/redhat-cop/containers-quickstarts)
+
 ## OpenShift Documentation
 - [OpenShift Docs](https://docs.openshift.com/)
 - [OCP 4.9 Docs](https://docs.openshift.com/container-platform/4.9/welcome/index.html)
@@ -35,6 +39,7 @@ Projects:
 - [Access your application container and interacting with it](./connect-container.md)
 - [Give access to other users to collaborate on your project](./permissions.md)
 - [Build and deploy an application from source code in a Git repository](./deploy-git.md)
+- [Deploy a database from the Red Hat OpenShift service catalog](./template.md)
 
 
 ## References
