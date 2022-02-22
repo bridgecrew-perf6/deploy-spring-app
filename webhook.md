@@ -1,6 +1,6 @@
 [TOC]
 
-# Set up web hooks to enable automated application build
+# Set up webhooks to enable automated application build
 
 ## Add Triggers to your Pipeline
 

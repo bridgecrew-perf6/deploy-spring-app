@@ -1,6 +1,6 @@
 [TOC]
 
-# Configure Application Healthchecks
+# Configure Application Health Checks
 
 ## Configure Applicaiton Healthchecks on OpenShift web console
 
