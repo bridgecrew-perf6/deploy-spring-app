@@ -18,6 +18,11 @@ The pipeline is from <https://raw.githubusercontent.com/openshift-roadshow/natio
 
 On OpenShift web console, switch to Adminstrator perspective, and open Pipelines / Pipelines.
 
+Or use Tekton CLI (`tkn`) to show the pipeline:
+```bash
+tkn pipeline describe nationalparks-pipeline
+```
+
 
 
 The pipeline include below **tasks**:
