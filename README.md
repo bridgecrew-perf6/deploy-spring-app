@@ -40,6 +40,9 @@ OpenShift Templates:
 - [Give access to other users to collaborate on your project](./permissions.md)
 - [Build and deploy an application from source code in a Git repository](./deploy-git.md)
 - [Deploy a database from the Red Hat OpenShift service catalog](./template.md)
+- [Configure Application Healthchecks](./health-checks.md)
+- [Continuous integration and pipelines](./pipeline.md)
+- [Set up web hooks to enable automated application build](./webhook.md)
 
 
 ## References
